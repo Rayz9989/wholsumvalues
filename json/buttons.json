@@ -1,32 +1,56 @@
 [
 	{
+		"name": "I'd Go Further",
+		"modifier": 1.25,
+		"color": "#6942ff",
+		"focusColor": "#5133c6"
+	},
+	{
 		"name": "Strongly Agree",
 		"modifier": 1,
-		"color": "#1b5e20",
-		"focusColor": "#154a19"
+		"color": "#6b56ef",
+		"focusColor": "#5343ba"
 	},
 	{
 		"name": "Agree",
 		"modifier": 0.5,
-		"color": "#4caf50",
-		"focusColor": "#29942e"
+		"color": "#6d6adf",
+		"focusColor": "#5452ad"
 	},
 	{
-		"name": "Neutral",
+		"name": "Slightly/Partially Agree",
+		"modifier": 0.25,
+		"color": "#6e7ecf",
+		"focusColor": "#5662a1"
+	},
+	{
+		"name": "Neutral, Don't Know/Care, or Skip",
 		"modifier": 0,
-		"color": "#949494",
-		"focusColor": "#656565"
+		"color": "#7092bf",
+		"focusColor": "#577194"
+	},
+	{
+		"name": "Slightly/Partially Disagree",
+		"modifier": -0.25,
+		"color": "#6e7397",
+		"focusColor": "#565975"
 	},
 	{
 		"name": "Disagree",
-		"modifier": 0.5,
-		"color": "#f44336",
-		"focusColor": "#d6271a"
+		"modifier": -0.5,
+		"color": "#6d5370",
+		"focusColor": "#544057"
 	},
 	{
 		"name": "Strongly Disagree",
 		"modifier": -1,
-		"color": "#b71c1c",
-		"focusColor": "#a00e0e"
+		"color": "#6b3448",
+		"focusColor": "#532838"
+	},
+	{
+		"name": "This Sentence Angers Me",
+		"modifier": -1.25,
+		"color": "#691420",
+		"focusColor": "#510f19"
 	}
 ]
