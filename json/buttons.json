@@ -1,25 +1,25 @@
 [
 	{
 		"name": "I'd Go Further",
-		"modifier": 1.25,
+		"modifier": 1,
 		"color": "#6942ff",
 		"focusColor": "#5133c6"
 	},
 	{
 		"name": "Strongly Agree",
-		"modifier": 1,
+		"modifier": 0.9,
 		"color": "#6b56ef",
 		"focusColor": "#5343ba"
 	},
 	{
 		"name": "Agree",
-		"modifier": 0.5,
+		"modifier": 0.75,
 		"color": "#6d6adf",
 		"focusColor": "#5452ad"
 	},
 	{
 		"name": "Slightly/Partially Agree",
-		"modifier": 0.25,
+		"modifier": 0.5,
 		"color": "#6e7ecf",
 		"focusColor": "#5662a1"
 	},
@@ -31,25 +31,25 @@
 	},
 	{
 		"name": "Slightly/Partially Disagree",
-		"modifier": -0.25,
+		"modifier": -0.5,
 		"color": "#6e7397",
 		"focusColor": "#565975"
 	},
 	{
 		"name": "Disagree",
-		"modifier": -0.5,
+		"modifier": -0.75,
 		"color": "#6d5370",
 		"focusColor": "#544057"
 	},
 	{
 		"name": "Strongly Disagree",
-		"modifier": -1,
+		"modifier": -0.9,
 		"color": "#6b3448",
 		"focusColor": "#532838"
 	},
 	{
 		"name": "This Sentence Angers Me",
-		"modifier": -1.25,
+		"modifier": -1,
 		"color": "#691420",
 		"focusColor": "#510f19"
 	}
