@@ -248,7 +248,7 @@
 			"physm": 0,
 			"conxn": 0,
 			"selfc": 0,
-			"outlk": 10
+			"outlk": -10
 		}
 	}
 ]

@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Ultra-Wholsumsuperpro100",
+		"name": "Ultra-Wholsumsuperpro100 Gold",
 		"stats": {
 			"thank": 100,
 			"welcm": 100,
@@ -28,17 +28,17 @@
 		}
 	},
 	{
-		"name": "",
+		"name": "Maybe Wholsum, Maybe Not",
 		"stats": {
-			"thank": 0,
-			"welcm": 0,
-			"compl": 0,
-			"mercy": 0,
-			"truth": 0,
-			"physm": 0,
-			"conxn": 0,
-			"selfc": 0,
-			"outlk": 0
+			"thank": 50,
+			"welcm": 50,
+			"compl": 50,
+			"mercy": 50,
+			"truth": 50,
+			"physm": 50,
+			"conxn": 50,
+			"selfc": 50,
+			"outlk": 50
 		}
 	},
 	{
