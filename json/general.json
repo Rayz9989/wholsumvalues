@@ -1,9 +1,9 @@
 {
 	"title": "wholsumvalues",
-	"version": "Beta 1",
+	"version": "Beta 2",
 	"github": "https://github.com/Rayz9989/wholsumvalues",
 	"link": "Rayz9989.github.io/wholsumvalues",
-	"description": "wholsumvalues is an attempt by Rayz9989 at making a basic 8values-style political test wherein the test tries to measure positive personality qualities in a person to get a sense of their overall \"wholsumness\"",
+	"description": "wholsumvalues is an attempt by Rayz9989 at making a basic 8values-style political test wherein the test tries to measure positive personality qualities in a person to get a sense of their overall \"wholsumness\" | NOTE: The test purposefully exaggerates your traits for comedic effect because it is silly, please don't get angry or too enaumored with them!",
 	"valQuestion": "What are the 18 values?",
 	"valDescription": "There are nine independent axes - Gratitude, Reception, Asking, Mercy, Integrity, Physical Manners, Connections, Intrapersonal, and Outlook - and each has two opposing values assigned to them. They are:",
 	"mainFont": "Montserrat"

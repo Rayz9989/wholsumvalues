@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Ultra-Wholsumsuperpro100 Gold",
+		"name": "Wholsumgoldsuperpro100",
 		"stats": {
 			"thank": 100,
 			"welcm": 100,
@@ -14,21 +14,21 @@
 		}
 	},
 	{
-		"name": "BADLY UNBELIEVABLY UNWHOLESUM D:",
+		"name": "UNBELIEVABLY UNWHOLESUM D:",
 		"stats": {
-			"thank": 0,
-			"welcm": 0,
-			"compl": 0,
-			"mercy": 0,
-			"truth": 0,
-			"physm": 0,
-			"conxn": 0,
+			"thank": 10,
+			"welcm": 10,
+			"compl": 10,
+			"mercy": 10,
+			"truth": 10,
+			"physm": 10,
+			"conxn": 10,
 			"selfc": 50,
-			"outlk": 0
+			"outlk": 25
 		}
 	},
 	{
-		"name": "Maybe Wholsum, Maybe Not",
+		"name": "Maybe Wholsum idk",
 		"stats": {
 			"thank": 50,
 			"welcm": 50,
@@ -38,11 +38,81 @@
 			"physm": 50,
 			"conxn": 50,
 			"selfc": 50,
+			"outlk": 51
+		}
+	},
+	{
+		"name": "Ultra-Wholsum Pessimist",
+		"stats": {
+			"thank": 100,
+			"welcm": 100,
+			"compl": 100,
+			"mercy": 100,
+			"truth": 100,
+			"physm": 100,
+			"conxn": 100,
+			"selfc": 50,
+			"outlk": 0
+		}
+	},
+	{
+		"name": "Sunshine & Rainbows",
+		"stats": {
+			"thank": 100,
+			"welcm": 100,
+			"compl": 100,
+			"mercy": 100,
+			"truth": 100,
+			"physm": 100,
+			"conxn": 100,
+			"selfc": 75,
+			"outlk": 110
+		}
+	},
+	{
+		"name": "Action Appreciator",
+		"stats": {
+			"thank": 100,
+			"welcm": 50,
+			"compl": 50,
+			"mercy": 50,
+			"truth": 50,
+			"physm": 50,
+			"conxn": 50,
+			"selfc": 0,
 			"outlk": 50
 		}
 	},
 	{
-		"name": "",
+		"name": "Selfless",
+		"stats": {
+			"thank": 100,
+			"welcm": 100,
+			"compl": 100,
+			"mercy": 100,
+			"truth": 50,
+			"physm": 100,
+			"conxn": 50,
+			"selfc": 0,
+			"outlk": 50
+		}
+	},
+	{
+		"name": "Self-deprecating :(",
+		"stats": {
+			"thank": 50,
+			"welcm": 50,
+			"compl": 50,
+			"mercy": 50,
+			"truth": 50,
+			"physm": 50,
+			"conxn": 50,
+			"selfc": 0,
+			"outlk": 0
+		}
+	},
+	{
+		"name": "Depressed Edgelord",
 		"stats": {
 			"thank": 0,
 			"welcm": 0,
@@ -56,21 +126,35 @@
 		}
 	},
 	{
-		"name": "",
+		"name": "Egotistic Narcissist",
 		"stats": {
 			"thank": 0,
-			"welcm": 0,
+			"welcm": 50,
 			"compl": 0,
-			"mercy": 0,
-			"truth": 0,
+			"mercy": 50,
+			"truth": 50,
 			"physm": 0,
-			"conxn": 0,
-			"selfc": 0,
+			"conxn": 50,
+			"selfc": 100,
 			"outlk": 0
 		}
 	},
 	{
-		"name": "",
+		"name": "People-Person",
+		"stats": {
+			"thank": 50,
+			"welcm": 50,
+			"compl": 50,
+			"mercy": 50,
+			"truth": 50,
+			"physm": 50,
+			"conxn": 100,
+			"selfc": 50,
+			"outlk": 50
+		}
+	},
+	{
+		"name": "Villain Complex",
 		"stats": {
 			"thank": 0,
 			"welcm": 0,
@@ -79,8 +163,1268 @@
 			"truth": 0,
 			"physm": 0,
 			"conxn": 0,
+			"selfc": 100,
+			"outlk": 50
+		}
+	},
+	{
+		"name": "Hero Complex",
+		"stats": {
+			"thank": 100,
+			"welcm": 100,
+			"compl": 100,
+			"mercy": 100,
+			"truth": 100,
+			"physm": 100,
+			"conxn": 100,
+			"selfc": 100,
+			"outlk": 50
+		}
+	},
+	{
+		"name": "Protagonist",
+		"stats": {
+			"thank": 90,
+			"welcm": 90,
+			"compl": 25,
+			"mercy": 50,
+			"truth": 50,
+			"physm": 100,
+			"conxn": 50,
+			"selfc": 100,
+			"outlk": 50
+		}
+	},
+	{
+		"name": "The Humble",
+		"stats": {
+			"thank": 100,
+			"welcm": 50,
+			"compl": 50,
+			"mercy": 50,
+			"truth": 50,
+			"physm": 50,
+			"conxn": 50,
+			"selfc": 25,
+			"outlk": 50
+		}
+	},
+	{
+		"name": "Humility",
+		"stats": {
+			"thank": 100,
+			"welcm": 50,
+			"compl": 0,
+			"mercy": 50,
+			"truth": 100,
+			"physm": 50,
+			"conxn": 50,
 			"selfc": 0,
-			"outlk": 0
+			"outlk": 50
+		}
+	},
+	{
+		"name": "Philanthropist",
+		"stats": {
+			"thank": 50,
+			"welcm": 50,
+			"compl": 50,
+			"mercy": 50,
+			"truth": 50,
+			"physm": 100,
+			"conxn": 50,
+			"selfc": 100,
+			"outlk": 50
+		}
+	},
+	{
+		"name": "Unconditional Love",
+		"stats": {
+			"thank": 100,
+			"welcm": 100,
+			"compl": 100,
+			"mercy": 100,
+			"truth": 50,
+			"physm": 50,
+			"conxn": 100,
+			"selfc": 50,
+			"outlk": 50
+		}
+	},
+	{
+		"name": "Eye For Eye",
+		"stats": {
+			"thank": 50,
+			"welcm": 50,
+			"compl": 25,
+			"mercy": 0,
+			"truth": 75,
+			"physm": 50,
+			"conxn": 50,
+			"selfc": 50,
+			"outlk": 50
+		}
+	},
+	{
+		"name": "litrally hitler!",
+		"stats": {
+			"thank": 0,
+			"welcm": 0,
+			"compl": 0,
+			"mercy": 0,
+			"truth": 0,
+			"physm": 0,
+			"conxn": 0,
+			"selfc": 100,
+			"outlk": 50
+		}
+	},
+	{
+		"name": "Let's Try...",
+		"stats": {
+			"thank": 50,
+			"welcm": 100,
+			"compl": 50,
+			"mercy": 75,
+			"truth": 50,
+			"physm": 50,
+			"conxn": 50,
+			"selfc": 50,
+			"outlk": 100
+		}
+	},
+	{
+		"name": "Honest Hitler",
+		"stats": {
+			"thank": 0,
+			"welcm": 0,
+			"compl": 0,
+			"mercy": 0,
+			"truth": 100,
+			"physm": 0,
+			"conxn": 0,
+			"selfc": 100,
+			"outlk": 50
+		}
+	},
+	{
+		"name": "Idealist Dystopian",
+		"stats": {
+			"thank": 0,
+			"welcm": 0,
+			"compl": 0,
+			"mercy": 0,
+			"truth": 100,
+			"physm": 0,
+			"conxn": 0,
+			"selfc": 100,
+			"outlk": 100
+		}
+	},
+	{
+		"name": "Utopian Idealist",
+		"stats": {
+			"thank": 50,
+			"welcm": 50,
+			"compl": 100,
+			"mercy": 50,
+			"truth": 50,
+			"physm": 50,
+			"conxn": 50,
+			"selfc": 50,
+			"outlk": 100
+		}
+	},
+	{
+		"name": "Onward-Looker",
+		"stats": {
+			"thank": 50,
+			"welcm": 50,
+			"compl": 50,
+			"mercy": 100,
+			"truth": 50,
+			"physm": 50,
+			"conxn": 50,
+			"selfc": 50,
+			"outlk": 100
+		}
+	},
+	{
+		"name": "Mercy Master",
+		"stats": {
+			"thank": 50,
+			"welcm": 50,
+			"compl": 50,
+			"mercy": 100,
+			"truth": 50,
+			"physm": 50,
+			"conxn": 50,
+			"selfc": 50,
+			"outlk": 50
+		}
+	},
+	{
+		"name": "All is Well",
+		"stats": {
+			"thank": 100,
+			"welcm": 50,
+			"compl": 50,
+			"mercy": 50,
+			"truth": 50,
+			"physm": 50,
+			"conxn": 50,
+			"selfc": 50,
+			"outlk": 100
+		}
+	},
+	{
+		"name": "Decisive Judge",
+		"stats": {
+			"thank": 50,
+			"welcm": 50,
+			"compl": 50,
+			"mercy": 0,
+			"truth": 50,
+			"physm": 50,
+			"conxn": 50,
+			"selfc": 75,
+			"outlk": 50
+		}
+	},
+	{
+		"name": "Warden",
+		"stats": {
+			"thank": 50,
+			"welcm": 50,
+			"compl": 50,
+			"mercy": 0,
+			"truth": 25,
+			"physm": 50,
+			"conxn": 50,
+			"selfc": 100,
+			"outlk": 25
+		}
+	},
+	{
+		"name": "Loner Sadist",
+		"stats": {
+			"thank": 50,
+			"welcm": 50,
+			"compl": 50,
+			"mercy": 0,
+			"truth": 50,
+			"physm": 0,
+			"conxn": 0,
+			"selfc": 25,
+			"outlk": 50
+		}
+	},
+	{
+		"name": "Justice Seeker",
+		"stats": {
+			"thank": 50,
+			"welcm": 50,
+			"compl": 50,
+			"mercy": 0,
+			"truth": 75,
+			"physm": 100,
+			"conxn": 50,
+			"selfc": 50,
+			"outlk": 50
+		}
+	},
+	{
+		"name": "Chaotic Good",
+		"stats": {
+			"thank": 100,
+			"welcm": 100,
+			"compl": 100,
+			"mercy": 100,
+			"truth": 0,
+			"physm": 100,
+			"conxn": 100,
+			"selfc": 50,
+			"outlk": 50
+			}
+		},
+		{
+			"name": "Pathological Liar",
+			"stats": {
+				"thank": 50,
+				"welcm": 50,
+				"compl": 50,
+				"mercy": 50,
+				"truth": 0,
+				"physm": 50,
+				"conxn": 50,
+				"selfc": 50,
+				"outlk": 50
+			}
+		},
+		{
+			"name": "Commander",
+			"stats": {
+				"thank": 50,
+				"welcm": 50,
+				"compl": 0,
+				"mercy": 50,
+				"truth": 50,
+				"physm": 50,
+				"conxn": 50,
+				"selfc": 50,
+				"outlk": 50
+			}
+		},
+		{
+			"name": "Humble Leader of Good",
+			"stats": {
+				"thank": 100,
+				"welcm": 100,
+				"compl": 10,
+				"mercy": 100,
+				"truth": 50,
+				"physm": 100,
+				"conxn": 100,
+				"selfc": 0,
+				"outlk": 50
+			}
+		},
+		{
+			"name": "Tender-hearted Strong Leader",
+			"stats": {
+				"thank": 100,
+				"welcm": 100,
+				"compl": 0,
+				"mercy": 100,
+				"truth": 50,
+				"physm": 100,
+				"conxn": 100,
+				"selfc": 100,
+				"outlk": 50
+			}
+		},
+		{
+			"name": "Healthy Leader",
+			"stats": {
+				"thank": 100,
+				"welcm": 100,
+				"compl": 25,
+				"mercy": 100,
+				"truth": 100,
+				"physm": 100,
+				"conxn": 100,
+				"selfc": 50,
+				"outlk": 50
+			}
+		},
+		{
+			"name": "George Washington",
+			"stats": {
+				"thank": 50,
+				"welcm": 50,
+				"compl": 50,
+				"mercy": 50,
+				"truth": 100,
+				"physm": 50,
+				"conxn": 50,
+				"selfc": 50,
+				"outlk": 50
+			}
+		},
+		{
+			"name": "Someone To Trust",
+			"stats": {
+				"thank": 50,
+				"welcm": 50,
+				"compl": 50,
+				"mercy": 50,
+				"truth": 100,
+				"physm": 50,
+				"conxn": 100,
+				"selfc": 50,
+				"outlk": 50
+			}
+		},
+		{
+			"name": "Counselor",
+			"stats": {
+				"thank": 50,
+				"welcm": 100,
+				"compl": 50,
+				"mercy": 75,
+				"truth": 50,
+				"physm": 50,
+				"conxn": 100,
+				"selfc": 50,
+				"outlk": 75
+			}
+		},
+		{
+			"name": "Outcast",
+			"stats": {
+				"thank": 50,
+				"welcm": 50,
+				"compl": 50,
+				"mercy": 50,
+				"truth": 50,
+				"physm": 50,
+				"conxn": 0,
+				"selfc": 50,
+				"outlk": 50
+			}
+		},
+		{
+			"name": "Depressive Outcast",
+			"stats": {
+				"thank": 0,
+				"welcm": 50,
+				"compl": 50,
+				"mercy": 50,
+				"truth": 50,
+				"physm": 50,
+				"conxn": 0,
+				"selfc": 0,
+				"outlk": 0
+			}
+		},
+		{
+			"name": "Cynical But Normal",
+			"stats": {
+				"thank": 0,
+				"welcm": 50,
+				"compl": 50,
+				"mercy": 10,
+				"truth": 50,
+				"physm": 50,
+				"conxn": 50,
+				"selfc": 0,
+				"outlk": 0
+			}
+		},
+		{
+			"name": "Narcissist",
+			"stats": {
+				"thank": 50,
+				"welcm": 50,
+				"compl": 50,
+				"mercy": 50,
+				"truth": 50,
+				"physm": 50,
+				"conxn": 50,
+				"selfc": 100,
+				"outlk": 50
+			}
+		},
+		{
+			"name": "Politician",
+			"stats": {
+				"thank": 50,
+				"welcm": 50,
+				"compl": 25,
+				"mercy": 50,
+				"truth": 0,
+				"physm": 60,
+				"conxn": 100,
+				"selfc": 100,
+				"outlk": 75
+			}
+		},
+		{
+			"name": "Get-Together Leader",
+			"stats": {
+				"thank": 50,
+				"welcm": 50,
+				"compl": 25,
+				"mercy": 50,
+				"truth": 50,
+				"physm": 50,
+				"conxn": 100,
+				"selfc": 100,
+				"outlk": 50
+			}
+		},
+		{
+			"name": "Event Organizer for Friends",
+			"stats": {
+				"thank": 50,
+				"welcm": 50,
+				"compl": 50,
+				"mercy": 50,
+				"truth": 50,
+				"physm": 50,
+				"conxn": 100,
+				"selfc": 75,
+				"outlk": 50
+			}
+		},
+		{
+			"name": "Aspiring Politician",
+			"stats": {
+				"thank": 50,
+				"welcm": 50,
+				"compl": 75,
+				"mercy": 50,
+				"truth": 40,
+				"physm": 50,
+				"conxn": 60,
+				"selfc": 100,
+				"outlk": 100
+			}
+		},
+		{
+			"name": "Lawyer",
+			"stats": {
+				"thank": 50,
+				"welcm": 50,
+				"compl": 50,
+				"mercy": 25,
+				"truth": 25,
+				"physm": 50,
+				"conxn": 70,
+				"selfc": 50,
+				"outlk": 60
+			}
+		},
+		{
+			"name": "Others Over Self",
+			"stats": {
+				"thank": 50,
+				"welcm": 50,
+				"compl": 50,
+				"mercy": 50,
+				"truth": 50,
+				"physm": 100,
+				"conxn": 50,
+				"selfc": 0,
+				"outlk": 50
+			}
+		},
+		{
+			"name": "No Thanks We Good!",
+			"stats": {
+				"thank": 0,
+				"welcm": 100,
+				"compl": 100,
+				"mercy": 100,
+				"truth": 100,
+				"physm": 100,
+				"conxn": 100,
+				"selfc": 50,
+				"outlk": 100
+			}
+		},
+		{
+			"name": "Tired Of Your ****",
+			"stats": {
+				"thank": 50,
+				"welcm": 50,
+				"compl": 10,
+				"mercy": 0,
+				"truth": 50,
+				"physm": 50,
+				"conxn": 50,
+				"selfc": 0,
+				"outlk": 0
+			}
+		},
+		{
+			"name": "Very Tough Love",
+			"stats": {
+				"thank": 50,
+				"welcm": 40,
+				"compl": 0,
+				"mercy": 30,
+				"truth": 50,
+				"physm": 100,
+				"conxn": 50,
+				"selfc": 70,
+				"outlk": 50
+			}
+		},
+		{
+			"name": "Simply Graceful",
+			"stats": {
+				"thank": 100,
+				"welcm": 100,
+				"compl": 25,
+				"mercy": 75,
+				"truth": 100,
+				"physm": 50,
+				"conxn": 50,
+				"selfc": 50,
+				"outlk": 100
+			}
+		},
+		{
+			"name": "Haughty Untrusty Helper",
+			"stats": {
+				"thank": 0,
+				"welcm": 50,
+				"compl": 50,
+				"mercy": 0,
+				"truth": 0,
+				"physm": 100,
+				"conxn": 0,
+				"selfc": 100,
+				"outlk": 0
+			}
+		},
+		{
+			"name": "Submissive But Happy Counselor",
+			"stats": {
+				"thank": 100,
+				"welcm": 100,
+				"compl": 50,
+				"mercy": 100,
+				"truth": 50,
+				"physm": 50,
+				"conxn": 100,
+				"selfc": 0,
+				"outlk": 100
+			}
+		},
+		{
+			"name": "Careless Blissful Onlooker",
+			"stats": {
+				"thank": 100,
+				"welcm": 50,
+				"compl": 50,
+				"mercy": 0,
+				"truth": 50,
+				"physm": 0,
+				"conxn": 0,
+				"selfc": 50,
+				"outlk": 100
+			}
+		},
+		{
+			"name": "Luring Scammer",
+			"stats": {
+				"thank": 50,
+				"welcm": 100,
+				"compl": 50,
+				"mercy": 50,
+				"truth": 0,
+				"physm": 0,
+				"conxn": 50,
+				"selfc": 50,
+				"outlk": 50
+			}
+		},
+		{
+			"name": "Austere Helper",
+			"stats": {
+				"thank": 50,
+				"welcm": 50,
+				"compl": 50,
+				"mercy": 50,
+				"truth": 100,
+				"physm": 100,
+				"conxn": 100,
+				"selfc": 50,
+				"outlk": 50
+			}
+		},
+		{
+			"name": "Harsh Austere Judge",
+			"stats": {
+				"thank": 50,
+				"welcm": 50,
+				"compl": 50,
+				"mercy": 0,
+				"truth": 100,
+				"physm": 50,
+				"conxn": 25,
+				"selfc": 50,
+				"outlk": 50
+			}
+		},
+		{
+			"name": "Loner Philanthropist",
+			"stats": {
+				"thank": 50,
+				"welcm": 50,
+				"compl": 50,
+				"mercy": 50,
+				"truth": 50,
+				"physm": 100,
+				"conxn": 0,
+				"selfc": 50,
+				"outlk": 50
+			}
+		},
+		{
+			"name": "Fake Altruist",
+			"stats": {
+				"thank": 50,
+				"welcm": 50,
+				"compl": 50,
+				"mercy": 50,
+				"truth": 0,
+				"physm": 100,
+				"conxn": 50,
+				"selfc": 50,
+				"outlk": 50
+			}
+		},
+		{
+			"name": "Masked Depression",
+			"stats": {
+				"thank": 0,
+				"welcm": 50,
+				"compl": 50,
+				"mercy": 50,
+				"truth": 0,
+				"physm": 50,
+				"conxn": 50,
+				"selfc": 0,
+				"outlk": 0
+			}
+		},
+		{
+			"name": "",
+			"stats": {
+				"thank": 50,
+				"welcm": 50,
+				"compl": 50,
+				"mercy": 50,
+				"truth": 50,
+				"physm": 50,
+				"conxn": 50,
+				"selfc": 50,
+				"outlk": 50
+			}
+		},
+		{
+			"name": "Accepting Authority",
+			"stats": {
+				"thank": 50,
+				"welcm": 100,
+				"compl": 0,
+				"mercy": 25,
+				"truth": 50,
+				"physm": 100,
+				"conxn": 50,
+				"selfc": 50,
+				"outlk": 50
+			}
+		},
+		{
+			"name": "Don't Care At All",
+			"stats": {
+				"thank": 25,
+				"welcm": 0,
+				"compl": 50,
+				"mercy": 50,
+				"truth": 50,
+				"physm": 0,
+				"conxn": 0,
+				"selfc": 50,
+				"outlk": 50
+			}
+		},
+		{
+			"name": "Super Reliant and Knows",
+			"stats": {
+				"thank": 100,
+				"welcm": 50,
+				"compl": 100,
+				"mercy": 75,
+				"truth": 50,
+				"physm": 40,
+				"conxn": 40,
+				"selfc": 0,
+				"outlk": 50
+			}
+		},
+		{
+			"name": "Aggressively Dream Chasing Sub",
+			"stats": {
+				"thank": 50,
+				"welcm": 50,
+				"compl": 0,
+				"mercy": 50,
+				"truth": 50,
+				"physm": 50,
+				"conxn": 25,
+				"selfc": 0,
+				"outlk": 100
+			}
+		},
+		{
+			"name": "Self-deprecating, Others-appreciatin",
+			"stats": {
+				"thank": 100,
+				"welcm": 75,
+				"compl": 100,
+				"mercy": 50,
+				"truth": 50,
+				"physm": 50,
+				"conxn": 50,
+				"selfc": 0,
+				"outlk": 0
+			}
+		},
+		{
+			"name": "Wholsum Anger Issue",
+			"stats": {
+				"thank": 50,
+				"welcm": 50,
+				"compl": 0,
+				"mercy": 0,
+				"truth": 50,
+				"physm": 50,
+				"conxn": 100,
+				"selfc": 60,
+				"outlk": 50
+			}
+		},
+		{
+			"name": "Openly a Crybaby",
+			"stats": {
+				"thank": 50,
+				"welcm": 50,
+				"compl": 50,
+				"mercy": 50,
+				"truth": 100,
+				"physm": 50,
+				"conxn": 50,
+				"selfc": 0,
+				"outlk": 0
+			}
+		},
+		{
+			"name": "Patient Dream Chaser",
+			"stats": {
+				"thank": 50,
+				"welcm": 50,
+				"compl": 50,
+				"mercy": 50,
+				"truth": 50,
+				"physm": 50,
+				"conxn": 50,
+				"selfc": 0,
+				"outlk": 100
+			}
+		},
+		{
+			"name": "Reclusive Idealist",
+			"stats": {
+				"thank": 50,
+				"welcm": 50,
+				"compl": 50,
+				"mercy": 50,
+				"truth": 50,
+				"physm": 50,
+				"conxn": 25,
+				"selfc": 30,
+				"outlk": 100
+			}
+		},
+		{
+			"name": "Unforgivingly Warm",
+			"stats": {
+				"thank": 50,
+				"welcm": 50,
+				"compl": 100,
+				"mercy": 0,
+				"truth": 50,
+				"physm": 50,
+				"conxn": 100,
+				"selfc": 50,
+				"outlk": 50
+			}
+		},
+		{
+			"name": "Forgiveness is Weakness",
+			"stats": {
+				"thank": 50,
+				"welcm": 50,
+				"compl": 50,
+				"mercy": 0,
+				"truth": 50,
+				"physm": 50,
+				"conxn": 50,
+				"selfc": 50,
+				"outlk": 50
+			}
+		},
+		{
+			"name": "Harsh Jerky Truth",
+			"stats": {
+				"thank": 0,
+				"welcm": 50,
+				"compl": 25,
+				"mercy": 50,
+				"truth": 100,
+				"physm": 50,
+				"conxn": 0,
+				"selfc": 100,
+				"outlk": 50
+			}
+		},
+		{
+			"name": "Anti-Law Chaos Enjoyer",
+			"stats": {
+				"thank": 50,
+				"welcm": 50,
+				"compl": 0,
+				"mercy": 100,
+				"truth": 0,
+				"physm": 50,
+				"conxn": 50,
+				"selfc": 50,
+				"outlk": 50
+			}
+		},
+		{
+			"name": "Demanding Free-Flow",
+			"stats": {
+				"thank": 50,
+				"welcm": 100,
+				"compl": 0,
+				"mercy": 50,
+				"truth": 100,
+				"physm": 50,
+				"conxn": 50,
+				"selfc": 50,
+				"outlk": 50
+			}
+		},
+		{
+			"name": "Cliche Leader",
+			"stats": {
+				"thank": 50,
+				"welcm": 0,
+				"compl": 50,
+				"mercy": 50,
+				"truth": 50,
+				"physm": 50,
+				"conxn": 100,
+				"selfc": 75,
+				"outlk": 50
+			}
+		},
+		{
+			"name": "Exclusionary Befriender",
+			"stats": {
+				"thank": 60,
+				"welcm": 0,
+				"compl": 50,
+				"mercy": 75,
+				"truth": 50,
+				"physm": 60,
+				"conxn": 100,
+				"selfc": 50,
+				"outlk": 50
+			}
+		},
+		{
+			"name": "Masked Life of Lies",
+			"stats": {
+				"thank": 50,
+				"welcm": 25,
+				"compl": 50,
+				"mercy": 50,
+				"truth": 0,
+				"physm": 50,
+				"conxn": 100,
+				"selfc": 50,
+				"outlk": 50
+			}
+		},
+		{
+			"name": "Incorruptible Leadership",
+			"stats": {
+				"thank": 50,
+				"welcm": 50,
+				"compl": 0,
+				"mercy": 50,
+				"truth": 100,
+				"physm": 100,
+				"conxn": 50,
+				"selfc": 25,
+				"outlk": 50
+			}
+		},
+		{
+			"name": "Fight For A Good Cause",
+			"stats": {
+				"thank": 50,
+				"welcm": 50,
+				"compl": 0,
+				"mercy": 50,
+				"truth": 50,
+				"physm": 100,
+				"conxn": 50,
+				"selfc": 50,
+				"outlk": 50
+			}
+		},
+		{
+			"name": "Utopian Authoritarian",
+			"stats": {
+				"thank": 50,
+				"welcm": 50,
+				"compl": 0,
+				"mercy": 50,
+				"truth": 75,
+				"physm": 100,
+				"conxn": 50,
+				"selfc": 50,
+				"outlk": 100
+			}
+		},
+		{
+			"name": "Proud of Honesty",
+			"stats": {
+				"thank": 50,
+				"welcm": 50,
+				"compl": 50,
+				"mercy": 50,
+				"truth": 100,
+				"physm": 50,
+				"conxn": 50,
+				"selfc": 100,
+				"outlk": 50
+			}
+		},
+		{
+			"name": "Outward Cold, Inside Warm",
+			"stats": {
+				"thank": 25,
+				"welcm": 0,
+				"compl": 50,
+				"mercy": 75,
+				"truth": 50,
+				"physm": 0,
+				"conxn": 100,
+				"selfc": 50,
+				"outlk": 25
+			}
+		},
+		{
+			"name": "",
+			"stats": {
+				"thank": 50,
+				"welcm": 50,
+				"compl": 50,
+				"mercy": 50,
+				"truth": 50,
+				"physm": 50,
+				"conxn": 50,
+				"selfc": 50,
+				"outlk": 50
+			}
+		},
+		{
+			"name": "",
+			"stats": {
+				"thank": 50,
+				"welcm": 50,
+				"compl": 50,
+				"mercy": 50,
+				"truth": 50,
+				"physm": 50,
+				"conxn": 50,
+				"selfc": 50,
+				"outlk": 50
+			}
+		},
+		{
+			"name": "",
+			"stats": {
+				"thank": 50,
+				"welcm": 50,
+				"compl": 50,
+				"mercy": 50,
+				"truth": 50,
+				"physm": 50,
+				"conxn": 50,
+				"selfc": 50,
+				"outlk": 50
+			}
+		},
+		{
+			"name": "",
+			"stats": {
+				"thank": 50,
+				"welcm": 50,
+				"compl": 50,
+				"mercy": 50,
+				"truth": 50,
+				"physm": 50,
+				"conxn": 50,
+				"selfc": 50,
+				"outlk": 50
+			}
+		},
+		{
+			"name": "",
+			"stats": {
+				"thank": 50,
+				"welcm": 50,
+				"compl": 50,
+				"mercy": 50,
+				"truth": 50,
+				"physm": 50,
+				"conxn": 50,
+				"selfc": 50,
+				"outlk": 50
+			}
+		},
+		{
+			"name": "",
+			"stats": {
+				"thank": 50,
+				"welcm": 50,
+				"compl": 50,
+				"mercy": 50,
+				"truth": 50,
+				"physm": 50,
+				"conxn": 50,
+				"selfc": 50,
+				"outlk": 50
+			}
+		},
+		{
+			"name": "",
+			"stats": {
+				"thank": 50,
+				"welcm": 50,
+				"compl": 50,
+				"mercy": 50,
+				"truth": 50,
+				"physm": 50,
+				"conxn": 50,
+				"selfc": 50,
+				"outlk": 50
+			}
+		},
+		{
+			"name": "",
+			"stats": {
+				"thank": 50,
+				"welcm": 50,
+				"compl": 50,
+				"mercy": 50,
+				"truth": 50,
+				"physm": 50,
+				"conxn": 50,
+				"selfc": 50,
+				"outlk": 50
+			}
+		},
+		{
+			"name": "",
+			"stats": {
+				"thank": 50,
+				"welcm": 50,
+				"compl": 50,
+				"mercy": 50,
+				"truth": 50,
+				"physm": 50,
+				"conxn": 50,
+				"selfc": 50,
+				"outlk": 50
+			}
+		},
+		{
+			"name": "",
+			"stats": {
+				"thank": 50,
+				"welcm": 50,
+				"compl": 50,
+				"mercy": 50,
+				"truth": 50,
+				"physm": 50,
+				"conxn": 50,
+				"selfc": 50,
+				"outlk": 50
+			}
+		},
+		{
+			"name": "",
+			"stats": {
+				"thank": 50,
+				"welcm": 50,
+				"compl": 50,
+				"mercy": 50,
+				"truth": 50,
+				"physm": 50,
+				"conxn": 50,
+				"selfc": 50,
+				"outlk": 50
+			}
+		},
+		{
+			"name": "",
+			"stats": {
+				"thank": 50,
+				"welcm": 50,
+				"compl": 50,
+				"mercy": 50,
+				"truth": 50,
+				"physm": 50,
+				"conxn": 50,
+				"selfc": 50,
+				"outlk": 50
+			}
+		},
+		{
+			"name": "",
+			"stats": {
+				"thank": 50,
+				"welcm": 50,
+				"compl": 50,
+				"mercy": 50,
+				"truth": 50,
+				"physm": 50,
+				"conxn": 50,
+				"selfc": 50,
+				"outlk": 50
+			}
+		},
+		{
+			"name": "",
+			"stats": {
+				"thank": 50,
+				"welcm": 50,
+				"compl": 50,
+				"mercy": 50,
+				"truth": 50,
+				"physm": 50,
+				"conxn": 50,
+				"selfc": 50,
+				"outlk": 50
+			}
+		},
+		{
+			"name": "",
+			"stats": {
+				"thank": 50,
+				"welcm": 50,
+				"compl": 50,
+				"mercy": 50,
+				"truth": 50,
+				"physm": 50,
+				"conxn": 50,
+				"selfc": 50,
+				"outlk": 50
+			}
+		},
+		{
+			"name": "",
+			"stats": {
+				"thank": 50,
+				"welcm": 50,
+				"compl": 50,
+				"mercy": 50,
+				"truth": 50,
+				"physm": 50,
+				"conxn": 50,
+				"selfc": 50,
+				"outlk": 50
 		}
 	}
 ]
