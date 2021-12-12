@@ -1201,6 +1201,230 @@
 				"conxn": 100,
 				"selfc": 50,
 				"outlk": 25
+			}
+		},
+		{
+			"name": "Valiant In-Group Protector",
+			"stats": {
+				"thank": 50,
+				"welcm": 50,
+				"compl": 0,
+				"mercy": 50,
+				"truth": 50,
+				"physm": 25,
+				"conxn": 100,
+				"selfc": 100,
+				"outlk": 100
+			}
+		},
+		{
+			"name": "",
+			"stats": {
+				"thank": 50,
+				"welcm": 50,
+				"compl": 50,
+				"mercy": 50,
+				"truth": 50,
+				"physm": 50,
+				"conxn": 50,
+				"selfc": 50,
+				"outlk": 50
+			}
+		},
+		{
+			"name": "",
+			"stats": {
+				"thank": 50,
+				"welcm": 50,
+				"compl": 50,
+				"mercy": 50,
+				"truth": 50,
+				"physm": 50,
+				"conxn": 50,
+				"selfc": 50,
+				"outlk": 50
+			}
+		},
+		{
+			"name": "",
+			"stats": {
+				"thank": 50,
+				"welcm": 50,
+				"compl": 50,
+				"mercy": 50,
+				"truth": 50,
+				"physm": 50,
+				"conxn": 50,
+				"selfc": 50,
+				"outlk": 50
+			}
+		},
+		{
+			"name": "",
+			"stats": {
+				"thank": 50,
+				"welcm": 50,
+				"compl": 50,
+				"mercy": 50,
+				"truth": 50,
+				"physm": 50,
+				"conxn": 50,
+				"selfc": 50,
+				"outlk": 50
+			}
+		},
+		{
+			"name": "",
+			"stats": {
+				"thank": 50,
+				"welcm": 50,
+				"compl": 50,
+				"mercy": 50,
+				"truth": 50,
+				"physm": 50,
+				"conxn": 50,
+				"selfc": 50,
+				"outlk": 50
+			}
+		},
+		{
+			"name": "",
+			"stats": {
+				"thank": 50,
+				"welcm": 50,
+				"compl": 50,
+				"mercy": 50,
+				"truth": 50,
+				"physm": 50,
+				"conxn": 50,
+				"selfc": 50,
+				"outlk": 50
+			}
+		},
+		{
+			"name": "",
+			"stats": {
+				"thank": 50,
+				"welcm": 50,
+				"compl": 50,
+				"mercy": 50,
+				"truth": 50,
+				"physm": 50,
+				"conxn": 50,
+				"selfc": 50,
+				"outlk": 50
+			}
+		},
+		{
+			"name": "",
+			"stats": {
+				"thank": 50,
+				"welcm": 50,
+				"compl": 50,
+				"mercy": 50,
+				"truth": 50,
+				"physm": 50,
+				"conxn": 50,
+				"selfc": 50,
+				"outlk": 50
+			}
+		},
+		{
+			"name": "",
+			"stats": {
+				"thank": 50,
+				"welcm": 50,
+				"compl": 50,
+				"mercy": 50,
+				"truth": 50,
+				"physm": 50,
+				"conxn": 50,
+				"selfc": 50,
+				"outlk": 50
+			}
+		},
+		{
+			"name": "",
+			"stats": {
+				"thank": 50,
+				"welcm": 50,
+				"compl": 50,
+				"mercy": 50,
+				"truth": 50,
+				"physm": 50,
+				"conxn": 50,
+				"selfc": 50,
+				"outlk": 50
+			}
+		},
+		{
+			"name": "",
+			"stats": {
+				"thank": 50,
+				"welcm": 50,
+				"compl": 50,
+				"mercy": 50,
+				"truth": 50,
+				"physm": 50,
+				"conxn": 50,
+				"selfc": 50,
+				"outlk": 50
+			}
+		},
+		{
+			"name": "",
+			"stats": {
+				"thank": 50,
+				"welcm": 50,
+				"compl": 50,
+				"mercy": 50,
+				"truth": 50,
+				"physm": 50,
+				"conxn": 50,
+				"selfc": 50,
+				"outlk": 50
+			}
+		},
+		{
+			"name": "",
+			"stats": {
+				"thank": 50,
+				"welcm": 50,
+				"compl": 50,
+				"mercy": 50,
+				"truth": 50,
+				"physm": 50,
+				"conxn": 50,
+				"selfc": 50,
+				"outlk": 50
+			}
+		},
+		{
+			"name": "",
+			"stats": {
+				"thank": 50,
+				"welcm": 50,
+				"compl": 50,
+				"mercy": 50,
+				"truth": 50,
+				"physm": 50,
+				"conxn": 50,
+				"selfc": 50,
+				"outlk": 50
+			}
+		},
+		{
+			"name": "",
+			"stats": {
+				"thank": 50,
+				"welcm": 50,
+				"compl": 50,
+				"mercy": 50,
+				"truth": 50,
+				"physm": 50,
+				"conxn": 50,
+				"selfc": 50,
+				"outlk": 50
 		}
 	}
 ]
