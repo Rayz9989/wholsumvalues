@@ -158,7 +158,7 @@
 		"stats": {
 			"thank": 0,
 			"welcm": 0,
-			"compl": 0,
+			"compl": 50,
 			"mercy": 0,
 			"truth": 0,
 			"physm": 0,
@@ -588,7 +588,7 @@
 			}
 		},
 		{
-			"name": "Cynical But Normal",
+			"name": "Cynical, But Normal",
 			"stats": {
 				"thank": 0,
 				"welcm": 50,
@@ -624,7 +624,7 @@
 				"mercy": 50,
 				"truth": 0,
 				"physm": 60,
-				"conxn": 100,
+				"conxn": 60,
 				"selfc": 100,
 				"outlk": 75
 			}
@@ -1215,6 +1215,216 @@
 				"conxn": 100,
 				"selfc": 100,
 				"outlk": 100
+			}
+		},
+		{
+			"name": "Fervorous Realist",
+			"stats": {
+				"thank": 100,
+				"welcm": 50,
+				"compl": 50,
+				"mercy": 50,
+				"truth": 50,
+				"physm": 50,
+				"conxn": 100,
+				"selfc": 100,
+				"outlk": 0
+			}
+		},
+		{
+			"name": "Good in Grandeur",
+			"stats": {
+				"thank": 50,
+				"welcm": 50,
+				"compl": 0,
+				"mercy": 50,
+				"truth": 50,
+				"physm": 75,
+				"conxn": 75,
+				"selfc": 100,
+				"outlk": 50
+			}
+		},
+		{
+			"name": "Selfish Trickster",
+			"stats": {
+				"thank": 50,
+				"welcm": 50,
+				"compl": 50,
+				"mercy": 50,
+				"truth": 0,
+				"physm": 0,
+				"conxn": 50,
+				"selfc": 100,
+				"outlk": 50
+			}
+		},
+		{
+			"name": "Joyful Pessimist",
+			"stats": {
+				"thank": 100,
+				"welcm": 50,
+				"compl": 50,
+				"mercy": 50,
+				"truth": 50,
+				"physm": 50,
+				"conxn": 50,
+				"selfc": 75,
+				"outlk": 0
+			}
+		},
+		{
+			"name": "Bully",
+			"stats": {
+				"thank": 50,
+				"welcm": 0,
+				"compl": 25,
+				"mercy": 25,
+				"truth": 0,
+				"physm": 50,
+				"conxn": 65,
+				"selfc": 75,
+				"outlk": 50
+			}
+		},
+		{
+			"name": "Secretive Sadist",
+			"stats": {
+				"thank": 0,
+				"welcm": 0,
+				"compl": 50,
+				"mercy": 0,
+				"truth": 0,
+				"physm": 0,
+				"conxn": 0,
+				"selfc": 50,
+				"outlk": 50
+			}
+		},
+		{
+			"name": "",
+			"stats": {
+				"thank": 50,
+				"welcm": 50,
+				"compl": 50,
+				"mercy": 50,
+				"truth": 50,
+				"physm": 50,
+				"conxn": 50,
+				"selfc": 50,
+				"outlk": 50
+			}
+		},
+		{
+			"name": "",
+			"stats": {
+				"thank": 50,
+				"welcm": 50,
+				"compl": 50,
+				"mercy": 50,
+				"truth": 50,
+				"physm": 50,
+				"conxn": 50,
+				"selfc": 50,
+				"outlk": 50
+			}
+		},
+		{
+			"name": "",
+			"stats": {
+				"thank": 50,
+				"welcm": 50,
+				"compl": 50,
+				"mercy": 50,
+				"truth": 50,
+				"physm": 50,
+				"conxn": 50,
+				"selfc": 50,
+				"outlk": 50
+			}
+		},
+		{
+			"name": "",
+			"stats": {
+				"thank": 50,
+				"welcm": 50,
+				"compl": 50,
+				"mercy": 50,
+				"truth": 50,
+				"physm": 50,
+				"conxn": 50,
+				"selfc": 50,
+				"outlk": 50
+			}
+		},
+		{
+			"name": "",
+			"stats": {
+				"thank": 50,
+				"welcm": 50,
+				"compl": 50,
+				"mercy": 50,
+				"truth": 50,
+				"physm": 50,
+				"conxn": 50,
+				"selfc": 50,
+				"outlk": 50
+			}
+		},
+		{
+			"name": "",
+			"stats": {
+				"thank": 50,
+				"welcm": 50,
+				"compl": 50,
+				"mercy": 50,
+				"truth": 50,
+				"physm": 50,
+				"conxn": 50,
+				"selfc": 50,
+				"outlk": 50
+			}
+		},
+		{
+			"name": "",
+			"stats": {
+				"thank": 50,
+				"welcm": 50,
+				"compl": 50,
+				"mercy": 50,
+				"truth": 50,
+				"physm": 50,
+				"conxn": 50,
+				"selfc": 50,
+				"outlk": 50
+			}
+		},
+		{
+			"name": "",
+			"stats": {
+				"thank": 50,
+				"welcm": 50,
+				"compl": 50,
+				"mercy": 50,
+				"truth": 50,
+				"physm": 50,
+				"conxn": 50,
+				"selfc": 50,
+				"outlk": 50
+			}
+		},
+		{
+			"name": "",
+			"stats": {
+				"thank": 50,
+				"welcm": 50,
+				"compl": 50,
+				"mercy": 50,
+				"truth": 50,
+				"physm": 50,
+				"conxn": 50,
+				"selfc": 50,
+				"outlk": 50
 		}
 	}
 ]

@@ -12,7 +12,18 @@
 			"name": "Arrogant",
 			"color": "#aa8e39",
 			"description": "Those with higher Arrogant scores either forget to say \"thank you\", don't care enough to express their gratitude, or feel entitled to what they are given, what they have, or more."
-		}
+		},
+		"tiers": [
+			"Super Thankful",
+			"Gratified",
+			"Deferential",
+			"Pleased",
+			"Balanced",
+			"Showy",
+			"Pretentious",
+			"Entitled",
+			"Highly Arrogant"
+		]
 	},
 	{
 		"id": "welcm",
@@ -26,7 +37,18 @@
 			"name": "Dismissive",
 			"color": "#a05555",
 			"description": "Those with higher Dismissive scores do not place much importance on being welcoming, making good impressions, accepting thanks, or being pleasant towards those who come to them."
-		}
+		},
+		"tiers": [
+			"Entirely Welcoming",
+			"Inclusive",
+			"Accepting",
+			"Approachable",
+			"Mixed",
+			"Narrow",
+			"Judgemental",
+			"Exclusionary",
+			"Closed Lock"
+		]
 	},
 	{
 		"id": "compl",
@@ -34,13 +56,24 @@
 		"left": {
 			"name": "Polite",
 			"color": "#79cf55",
-			"description": "Those with higher Polite scores are more likely to ask nicely when trying to get something from someone and refrain from excessively pressuring or forces others to abide by their will."
+			"description": "Those with higher Polite scores are more likely to ask nicely when trying to get something from someone and refrain from excessively pressuring or forcing others to abide by their will."
 		},
 		"right": {
 			"name": "Forceful",
 			"color": "#996920",
 			"description": "Those with higher Forceful scores are more likely to take from others as they please, they may do things without asking, even if sometimes for what they may think is the \"greater good\". Or they may be forgetful of proper manners when making requests. Or they may demand things from others as opposed to letting others know that they can do something if they wish or if they have time."
-		}
+		},
+		"tiers": [
+			"Very Gentle",
+			"Chivalrous",
+			"Mannered",
+			"Civil",
+			"Neutral",
+			"Rude",
+			"Savage",
+			"Demanding",
+			"Dominant"
+		]
 	},
 	{
 		"id": "mercy",
@@ -54,7 +87,18 @@
 			"name": "Resentful",
 			"color": "#926767",
 			"description": "Those with higher Resentful scores may rather stay angry for what has been done in the past, or believe that the wrongs one has done must be retributed for as soon as possible. As such, in politics they may prefer a punitive or retributive penal system. They may feel that being forgiving is not as virtuous as people make it out to be and base their morals on atonement for actions and equal cause and effect."
-		}
+		},
+		"tiers": [
+			"Oft-Forgiving",
+			"Merciful",
+			"Pitying",
+			"Lenient",
+			"Mild",
+			"Tempered",
+			"Vengeful",
+			"Vindicative",
+			"Merciless"
+		]
 	},
 	{
 		"id": "truth",
@@ -68,7 +112,18 @@
 			"name": "Deceitful",
 			"color": "#a64d79",
 			"description": "Those with higher Deceitful scores might see to it that concealing or misleading people is more beneficial and a worthy sacrifice, perhaps even a pleasure, to achieve their goals. But some may not be able to help it, and are habitually lying to people to maintain a sense of security to escape from the consequences of their wrongs."
-		}
+		},
+		"tiers": [
+			"Utterly Honest",
+			"Truthful",
+			"Direct & Open",
+			"Fair",
+			"Uncertain",
+			"Furtive",
+			"Corrupt",
+			"Habitual Liar",
+			"Machiavellian"
+		]
 	},
 	{
 		"id": "physm",
@@ -82,7 +137,18 @@
 			"name": "Uncaring",
 			"color": "#1763a8",
 			"description": "Those with higher Uncaring scores may not want to lend others help in terms of their material possessions or through their better well-being allow some to benefit from it. They may rather keep what they own and believe themselves to be independent, wanting to work for themselves, not others."
-		}
+		},
+		"tiers": [
+			"Extremely Generous",
+			"Charitable",
+			"Humanitarian",
+			"Helpful",
+			"Ordinary",
+			"Slightly Greedy",
+			"Stingy",
+			"Miserly",
+			"Niggardly"
+		]
 	},
 	{
 		"id": "conxn",
@@ -96,7 +162,18 @@
 			"name": "Cold",
 			"color": "#7194cf",
 			"description": "Those with higher Cold scores may feel that they don't need to be very close with friends, they might dislike making things too personal and in some cases might not maintain a good number of strong/close friendships."
-		}
+		},
+		"tiers": [
+			"Affectionate",
+			"Companionable",
+			"Neighborly",
+			"Cordial",
+			"Mixed",
+			"Unwarm",
+			"Aloof",
+			"Distant",
+			"Pariah"
+		]
 	},
 	{
 		"id": "selfc",
@@ -110,7 +187,18 @@
 			"name": "Turbulent",
 			"color": "#be9823",
 			"description": "Those with higher Turbulent scores have lower self-esteem or do not value themselves very high. They may be more susceptible to degradation by others, or may be unwilling to stand up for themselves in what they want and might uneasily go along with others."
-		}
+		},
+		"tiers": [
+			"Self-centered",
+			"Bold",
+			"Firm",
+			"Individual",
+			"Balanced",
+			"Humble",
+			"Reliant",
+			"Diffident",
+			"Defeated"
+		]
 	},
 	{
 		"id": "outlk",
@@ -124,6 +212,18 @@
 			"name": "Pessimist",
 			"color": "#5f709c",
 			"description": "Those with higher Pessimist scores tend to belive that things will not get better, or will get worse. And sometimes views the natural state as bad, and might believe that human nature is inherently evil. They may feel uneasy thinking about the future."
-		}
+		},
+		"tiers": [
+			"Utopianistic Optimist",
+			"Very Positivistic",
+			"Positivistic",
+			"Slightly Optimistic",
+			"Balanced",
+			"Slightly Pessimistic",
+			"Negativistic",
+			"Very Negativistic",
+			"Dystopianistic Pessimist"
+		]
 	}
 ]
+

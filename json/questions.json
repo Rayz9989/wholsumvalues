@@ -42,7 +42,7 @@
 		}
 	},
 	{
-		"question": "I first judge a person based off of outwardly observable characteristics to determine if I should positively or negatively towards them.",
+		"question": "I first judge a person based off of outwardly observable characteristics to determine if I should act positively or negatively towards them.",
 		"effect": {
 			"thank": 0,
 			"welcm": -10,
@@ -238,7 +238,7 @@
 		}
 	},
 	{
-		"question": "I'm more likely to see how something could easily go wrong rather than the upsides.",
+		"question": "I'm more likely to see how something could wrong rather than its potential upsides.",
 		"effect": {
 			"thank": 0,
 			"welcm": 0,
@@ -798,7 +798,7 @@
 			}
 		},
 		{
-				"question": "You get what you get and you don't get upset.",
+				"question": "I get what I get and I don't get upset.",
 				"effect": {
 					"thank": 10,
 					"welcm": 0,
@@ -823,6 +823,62 @@
 						"conxn": 0,
 						"selfc": 0,
 						"outlk": 0
+					}
+				},
+				{
+						"question": "It's imporant to me that I never forget to thank a person who has done something for me.",
+						"effect": {
+							"thank": 10,
+							"welcm": 0,
+							"compl": 0,
+							"mercy": 0,
+							"truth": 0,
+							"physm": 0,
+							"conxn": 0,
+							"selfc": 0,
+							"outlk": 0
+						}
+					},
+					{
+							"question": "Even if I decline an offer, or if it ends up not benefiting me, I still greatly appreciate others' will to help.",
+							"effect": {
+								"thank": 10,
+								"welcm": 0,
+								"compl": 0,
+								"mercy": 0,
+								"truth": 0,
+								"physm": 0,
+								"conxn": 0,
+								"selfc": 0,
+								"outlk": 0
+							}
+						},
+						{
+								"question": "I don't need help from others.",
+								"effect": {
+									"thank": -10,
+									"welcm": 0,
+									"compl": 0,
+									"mercy": 0,
+									"truth": 0,
+									"physm": 0,
+									"conxn": 0,
+									"selfc": 0,
+									"outlk": 0
+								}
+							},
+							{
+									"question": "I don't need help from others.",
+									"effect": {
+										"thank": -10,
+										"welcm": 0,
+										"compl": 0,
+										"mercy": 0,
+										"truth": 0,
+										"physm": 0,
+										"conxn": 0,
+										"selfc": 0,
+										"outlk": 0
 		}
 	}
 ]
