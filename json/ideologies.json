@@ -882,20 +882,6 @@
 			}
 		},
 		{
-			"name": "",
-			"stats": {
-				"thank": 50,
-				"welcm": 50,
-				"compl": 50,
-				"mercy": 50,
-				"truth": 50,
-				"physm": 50,
-				"conxn": 50,
-				"selfc": 50,
-				"outlk": 50
-			}
-		},
-		{
 			"name": "Accepting Authority",
 			"stats": {
 				"thank": 50,
@@ -1092,7 +1078,7 @@
 			}
 		},
 		{
-			"name": "Cliche Leader",
+			"name": "Clique Leader",
 			"stats": {
 				"thank": 50,
 				"welcm": 0,
@@ -1297,132 +1283,6 @@
 				"truth": 0,
 				"physm": 0,
 				"conxn": 0,
-				"selfc": 50,
-				"outlk": 50
-			}
-		},
-		{
-			"name": "",
-			"stats": {
-				"thank": 50,
-				"welcm": 50,
-				"compl": 50,
-				"mercy": 50,
-				"truth": 50,
-				"physm": 50,
-				"conxn": 50,
-				"selfc": 50,
-				"outlk": 50
-			}
-		},
-		{
-			"name": "",
-			"stats": {
-				"thank": 50,
-				"welcm": 50,
-				"compl": 50,
-				"mercy": 50,
-				"truth": 50,
-				"physm": 50,
-				"conxn": 50,
-				"selfc": 50,
-				"outlk": 50
-			}
-		},
-		{
-			"name": "",
-			"stats": {
-				"thank": 50,
-				"welcm": 50,
-				"compl": 50,
-				"mercy": 50,
-				"truth": 50,
-				"physm": 50,
-				"conxn": 50,
-				"selfc": 50,
-				"outlk": 50
-			}
-		},
-		{
-			"name": "",
-			"stats": {
-				"thank": 50,
-				"welcm": 50,
-				"compl": 50,
-				"mercy": 50,
-				"truth": 50,
-				"physm": 50,
-				"conxn": 50,
-				"selfc": 50,
-				"outlk": 50
-			}
-		},
-		{
-			"name": "",
-			"stats": {
-				"thank": 50,
-				"welcm": 50,
-				"compl": 50,
-				"mercy": 50,
-				"truth": 50,
-				"physm": 50,
-				"conxn": 50,
-				"selfc": 50,
-				"outlk": 50
-			}
-		},
-		{
-			"name": "",
-			"stats": {
-				"thank": 50,
-				"welcm": 50,
-				"compl": 50,
-				"mercy": 50,
-				"truth": 50,
-				"physm": 50,
-				"conxn": 50,
-				"selfc": 50,
-				"outlk": 50
-			}
-		},
-		{
-			"name": "",
-			"stats": {
-				"thank": 50,
-				"welcm": 50,
-				"compl": 50,
-				"mercy": 50,
-				"truth": 50,
-				"physm": 50,
-				"conxn": 50,
-				"selfc": 50,
-				"outlk": 50
-			}
-		},
-		{
-			"name": "",
-			"stats": {
-				"thank": 50,
-				"welcm": 50,
-				"compl": 50,
-				"mercy": 50,
-				"truth": 50,
-				"physm": 50,
-				"conxn": 50,
-				"selfc": 50,
-				"outlk": 50
-			}
-		},
-		{
-			"name": "",
-			"stats": {
-				"thank": 50,
-				"welcm": 50,
-				"compl": 50,
-				"mercy": 50,
-				"truth": 50,
-				"physm": 50,
-				"conxn": 50,
 				"selfc": 50,
 				"outlk": 50
 		}
