@@ -90,9 +90,9 @@
 			"welcm": 100,
 			"compl": 100,
 			"mercy": 100,
-			"truth": 50,
+			"truth": 100,
 			"physm": 100,
-			"conxn": 50,
+			"conxn": 75,
 			"selfc": 0,
 			"outlk": 50
 		}
@@ -882,6 +882,20 @@
 			}
 		},
 		{
+			"name": "",
+			"stats": {
+				"thank": 50,
+				"welcm": 50,
+				"compl": 50,
+				"mercy": 50,
+				"truth": 50,
+				"physm": 50,
+				"conxn": 50,
+				"selfc": 50,
+				"outlk": 50
+			}
+		},
+		{
 			"name": "Accepting Authority",
 			"stats": {
 				"thank": 50,
@@ -1284,6 +1298,300 @@
 				"physm": 0,
 				"conxn": 0,
 				"selfc": 50,
+				"outlk": 50
+			}
+		},
+		{
+			"name": "Tries To Help",
+			"stats": {
+				"thank": 50,
+				"welcm": 60,
+				"compl": 50,
+				"mercy": 75,
+				"truth": 50,
+				"physm": 50,
+				"conxn": 25,
+				"selfc": 40,
+				"outlk": 25
+			}
+		},
+		{
+			"name": "A Nice Friend With Secrets",
+			"stats": {
+				"thank": 75,
+				"welcm": 75,
+				"compl": 50,
+				"mercy": 100,
+				"truth": 25,
+				"physm": 50,
+				"conxn": 100,
+				"selfc": 50,
+				"outlk": 75
+			}
+		},
+		{
+			"name": "Forgives in Hopes You'll Forgive",
+			"stats": {
+				"thank": 50,
+				"welcm": 50,
+				"compl": 50,
+				"mercy": 100,
+				"truth": 0,
+				"physm": 50,
+				"conxn": 50,
+				"selfc": 50,
+				"outlk": 100
+			}
+		},
+		{
+			"name": "Pushy But Thanks Later",
+			"stats": {
+				"thank": 100,
+				"welcm": 50,
+				"compl": 25,
+				"mercy": 50,
+				"truth": 50,
+				"physm": 50,
+				"conxn": 50,
+				"selfc": 50,
+				"outlk": 50
+			}
+		},
+		{
+			"name": "Solemn Justice of Truth",
+			"stats": {
+				"thank": 100,
+				"welcm": 75,
+				"compl": 75,
+				"mercy": 40,
+				"truth": 100,
+				"physm": 100,
+				"conxn": 100,
+				"selfc": 25,
+				"outlk": 40
+			}
+		},
+		{
+			"name": "Good, Adaptable, Happy",
+			"stats": {
+				"thank": 60,
+				"welcm": 50,
+				"compl": 50,
+				"mercy": 50,
+				"truth": 60,
+				"physm": 70,
+				"conxn": 60,
+				"selfc": 40,
+				"outlk": 75
+			}
+		},
+		{
+			"name": "Polite Lean To Grand Good",
+			"stats": {
+				"thank": 80,
+				"welcm": 80,
+				"compl": 100,
+				"mercy": 70,
+				"truth": 50,
+				"physm": 70,
+				"conxn": 80,
+				"selfc": 50,
+				"outlk": 50
+			}
+		},
+		{
+			"name": "Average Good-Heart",
+			"stats": {
+				"thank": 80,
+				"welcm": 80,
+				"compl": 60,
+				"mercy": 60,
+				"truth": 50,
+				"physm": 60,
+				"conxn": 80,
+				"selfc": 50,
+				"outlk": 50
+			}
+		},
+		{
+			"name": "Unmoved Strong-Self",
+			"stats": {
+				"thank": 75,
+				"welcm": 50,
+				"compl": 50,
+				"mercy": 75,
+				"truth": 25,
+				"physm": 25,
+				"conxn": 50,
+				"selfc": 100,
+				"outlk": 50
+			}
+		},
+		{
+			"name": "Happy Esteemed Doomsayer",
+			"stats": {
+				"thank": 100,
+				"welcm": 50,
+				"compl": 50,
+				"mercy": 50,
+				"truth": 50,
+				"physm": 50,
+				"conxn": 80,
+				"selfc": 75,
+				"outlk": 0
+			}
+		},
+		{
+			"name": "Depressed but Convivial Narcissist",
+			"stats": {
+				"thank": 0,
+				"welcm": 50,
+				"compl": 50,
+				"mercy": 50,
+				"truth": 50,
+				"physm": 50,
+				"conxn": 100,
+				"selfc": 100,
+				"outlk": 0
+			}
+		},
+		{
+			"name": "Onlooking True Helper",
+			"stats": {
+				"thank": 50,
+				"welcm": 50,
+				"compl": 100,
+				"mercy": 50,
+				"truth": 75,
+				"physm": 100,
+				"conxn": 100,
+				"selfc": 50,
+				"outlk": 75
+			}
+		},
+		{
+			"name": "A Heart For Friends Only",
+			"stats": {
+				"thank": 25,
+				"welcm": 0,
+				"compl": 25,
+				"mercy": 25,
+				"truth": 0,
+				"physm": 25,
+				"conxn": 75,
+				"selfc": 100,
+				"outlk": 0
+			}
+		},
+		{
+			"name": "Chaotic *Soft* Evil",
+			"stats": {
+				"thank": 25,
+				"welcm": 0,
+				"compl": 60,
+				"mercy": 50,
+				"truth": 0,
+				"physm": 25,
+				"conxn": 50,
+				"selfc": 100,
+				"outlk": 25
+			}
+		},
+		{
+			"name": "Friendly Egoist",
+			"stats": {
+				"thank": 25,
+				"welcm": 60,
+				"compl": 25,
+				"mercy": 50,
+				"truth": 25,
+				"physm": 50,
+				"conxn": 100,
+				"selfc": 100,
+				"outlk": 50
+			}
+		},
+		{
+			"name": "No Problem, Anything For Ya",
+			"stats": {
+				"thank": 25,
+				"welcm": 100,
+				"compl": 100,
+				"mercy": 50,
+				"truth": 100,
+				"physm": 100,
+				"conxn": 100,
+				"selfc": 25,
+				"outlk": 50
+			}
+		},
+		{
+			"name": "Accepting Flow of Tide",
+			"stats": {
+				"thank": 75,
+				"welcm": 100,
+				"compl": 75,
+				"mercy": 100,
+				"truth": 50,
+				"physm": 50,
+				"conxn": 50,
+				"selfc": 25,
+				"outlk": 0
+			}
+		},
+		{
+			"name": "Accepting Unselfish Helper",
+			"stats": {
+				"thank": 75,
+				"welcm": 100,
+				"compl": 75,
+				"mercy": 100,
+				"truth": 50,
+				"physm": 100,
+				"conxn": 100,
+				"selfc": 25,
+				"outlk": 0
+			}
+		},
+		{
+			"name": "Prideful Isolationist",
+			"stats": {
+				"thank": 75,
+				"welcm": 0,
+				"compl": 50,
+				"mercy": 50,
+				"truth": 50,
+				"physm": 50,
+				"conxn": 50,
+				"selfc": 75,
+				"outlk": 50
+			}
+		},
+		{
+			"name": "Prideful Hermit",
+			"stats": {
+				"thank": 75,
+				"welcm": 0,
+				"compl": 50,
+				"mercy": 50,
+				"truth": 50,
+				"physm": 50,
+				"conxn": 0,
+				"selfc": 75,
+				"outlk": 50
+			}
+		},
+		{
+			"name": "Inconsiderate Isolationist",
+			"stats": {
+				"thank": 75,
+				"welcm": 0,
+				"compl": 25,
+				"mercy": 25,
+				"truth": 25,
+				"physm": 25,
+				"conxn": 50,
+				"selfc": 75,
 				"outlk": 50
 		}
 	}
