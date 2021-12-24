@@ -1,0 +1,954 @@
+[
+	{
+		"question": "One has to prove they’re worthy of my respect before they receive it.",
+		"effect": {
+			"thank": 0,
+			"welcm": -10,
+			"compl": 0,
+			"mercy": 0,
+			"truth": 0,
+			"physm": 0,
+			"conxn": 0,
+			"selfc": 0,
+			"outlk": 0
+		}
+	},
+	{
+		"question": "I would like to keep a list of things that should disqualify others from interacting with me.",
+		"effect": {
+			"thank": 0,
+			"welcm": -10,
+			"compl": 0,
+			"mercy": 0,
+			"truth": 0,
+			"physm": 0,
+			"conxn": 0,
+			"selfc": 0,
+			"outlk": 0
+		}
+	},
+	{
+		"question": "I’m most likely to give a warm welcome to people just entering a community that I’m established in.",
+		"effect": {
+			"thank": 0,
+			"welcm": 10,
+			"compl": 0,
+			"mercy": 0,
+			"truth": 0,
+			"physm": 0,
+			"conxn": 0,
+			"selfc": 0,
+			"outlk": 0
+		}
+	},
+	{
+		"question": "I first judge a person based off of outwardly observable characteristics to determine if I should act positively or negatively towards them.",
+		"effect": {
+			"thank": 0,
+			"welcm": -10,
+			"compl": 0,
+			"mercy": 0,
+			"truth": 0,
+			"physm": 0,
+			"conxn": 0,
+			"selfc": 0,
+			"outlk": 0
+		}
+	},
+	{
+		"question": "I am pleased when newcomers attempt to join or be apart of my own spaces or communities.",
+		"effect": {
+			"thank": 0,
+			"welcm": 10,
+			"compl": 0,
+			"mercy": 0,
+			"truth": 0,
+			"physm": 0,
+			"conxn": 0,
+			"selfc": 0,
+			"outlk": 0
+		}
+	},
+	{
+		"question": "I want to show equal levels of respect to those who I first meet instead of discriminating based on personal preferences.",
+		"effect": {
+			"thank": 0,
+			"welcm": 10,
+			"compl": 0,
+			"mercy": 0,
+			"truth": 0,
+			"physm": 0,
+			"conxn": 0,
+			"selfc": 0,
+			"outlk": 0
+		}
+	},
+	{
+		"question": "I hold grudges for long periods of time.",
+		"effect": {
+			"thank": 0,
+			"welcm": 0,
+			"compl": 0,
+			"mercy": -10,
+			"truth": 0,
+			"physm": 0,
+			"conxn": 0,
+			"selfc": 0,
+			"outlk": 0
+		}
+	},
+	{
+		"question": "An eye for an eye, a tooth for a tooth.",
+		"effect": {
+			"thank": 0,
+			"welcm": 0,
+			"compl": 0,
+			"mercy": -10,
+			"truth": 0,
+			"physm": 0,
+			"conxn": 0,
+			"selfc": 0,
+			"outlk": 0
+		}
+	},
+	{
+		"question": "It is uncharacteristic of me to let something go when I feel that a person has previously wronged me.",
+		"effect": {
+			"thank": 0,
+			"welcm": 0,
+			"compl": 0,
+			"mercy": -10,
+			"truth": 0,
+			"physm": 0,
+			"conxn": 0,
+			"selfc": 0,
+			"outlk": 0
+		}
+	},
+	{
+		"question": "I believe good prevails over evil in the end",
+		"effect": {
+			"thank": 0,
+			"welcm": 0,
+			"compl": 0,
+			"mercy": 0,
+			"truth": 0,
+			"physm": 0,
+			"conxn": 0,
+			"selfc": 0,
+			"outlk": 10
+		}
+	},
+	{
+		"question": "When envisioning possibilities of what could happen, I often grasp on to the better or best outcomes tightly.",
+		"effect": {
+			"thank": 0,
+			"welcm": 0,
+			"compl": 0,
+			"mercy": 0,
+			"truth": 0,
+			"physm": 0,
+			"conxn": 0,
+			"selfc": 0,
+			"outlk": 10
+		}
+	},
+	{
+		"question": "People can be trusted to do the right thing most of the time.",
+		"effect": {
+			"thank": 0,
+			"welcm": 0,
+			"compl": 0,
+			"mercy": 0,
+			"truth": 0,
+			"physm": 0,
+			"conxn": 0,
+			"selfc": 0,
+			"outlk": 10
+		}
+	},
+	{
+		"question": "We live in a cold, harsh world, we have to accept this reality.",
+		"effect": {
+			"thank": 0,
+			"welcm": 0,
+			"compl": 0,
+			"mercy": 0,
+			"truth": 0,
+			"physm": 0,
+			"conxn": 0,
+			"selfc": 0,
+			"outlk": -10
+		}
+	},
+	{
+		"question": "Looking at the state of things, those who believe people are good at heart must be blissfully ignorant.",
+		"effect": {
+			"thank": 0,
+			"welcm": 0,
+			"compl": 0,
+			"mercy": 0,
+			"truth": 0,
+			"physm": 0,
+			"conxn": 0,
+			"selfc": 0,
+			"outlk": -10
+		}
+	},
+	{
+		"question": "Even in times where people are mad at another who has made a big mistake, I believe in the power to correct it and improve.",
+		"effect": {
+			"thank": 0,
+			"welcm": 0,
+			"compl": 0,
+			"mercy": 10,
+			"truth": 0,
+			"physm": 0,
+			"conxn": 0,
+			"selfc": 0,
+			"outlk": 0
+		}
+	},
+	{
+		"question": "We should not make people suffer for what is in the past, because it is unnecessary.",
+		"effect": {
+			"thank": 0,
+			"welcm": 0,
+			"compl": 0,
+			"mercy": 10,
+			"truth": 0,
+			"physm": 0,
+			"conxn": 0,
+			"selfc": 0,
+			"outlk": 0
+		}
+	},
+	{
+		"question": "We should always focus on improvement, not punishment.",
+		"effect": {
+			"thank": 0,
+			"welcm": 0,
+			"compl": 0,
+			"mercy": 10,
+			"truth": 0,
+			"physm": 0,
+			"conxn": 0,
+			"selfc": 0,
+			"outlk": 0
+		}
+	},
+	{
+		"question": "I’m more likely to see how something could wrong rather than its potential upsides.",
+		"effect": {
+			"thank": 0,
+			"welcm": 0,
+			"compl": 0,
+			"mercy": 0,
+			"truth": 0,
+			"physm": 0,
+			"conxn": 0,
+			"selfc": 0,
+			"outlk": -10
+		}
+	},
+	{
+		"question": "I try to exercise common courtesy with strangers like holding the door open.",
+		"effect": {
+			"thank": 0,
+			"welcm": 0,
+			"compl": 0,
+			"mercy": 0,
+			"truth": 0,
+			"physm": 10,
+			"conxn": 0,
+			"selfc": 0,
+			"outlk": 0
+		}
+	},
+	{
+		"question": "I am concerned for those who are less fortunate and want to do things to help.",
+		"effect": {
+			"thank": 0,
+			"welcm": 0,
+			"compl": 0,
+			"mercy": 0,
+			"truth": 0,
+			"physm": 10,
+			"conxn": 0,
+			"selfc": 0,
+			"outlk": 0
+		}
+	},
+	{
+		"question": "I would give extra that I have to others rather then spend on myself.",
+		"effect": {
+			"thank": 0,
+			"welcm": 0,
+			"compl": 0,
+			"mercy": 0,
+			"truth": 0,
+			"physm": 10,
+			"conxn": 0,
+			"selfc": 0,
+			"outlk": 0
+		}
+	},
+	{
+		"question": "I cannot recall any moment where someone felt that I was generous to them.",
+		"effect": {
+			"thank": 0,
+			"welcm": 0,
+			"compl": 0,
+			"mercy": 0,
+			"truth": 0,
+			"physm": -10,
+			"conxn": 0,
+			"selfc": 0,
+			"outlk": 0
+		}
+	},
+	{
+		"question": "Others don’t deserve what I have.",
+		"effect": {
+			"thank": 0,
+			"welcm": 0,
+			"compl": 0,
+			"mercy": 0,
+			"truth": 0,
+			"physm": -10,
+			"conxn": 0,
+			"selfc": 0,
+			"outlk": 0
+		}
+	},
+	{
+		"question": "I’m fine with giving up my wants to get what others need.",
+		"effect": {
+			"thank": 0,
+			"welcm": 0,
+			"compl": 0,
+			"mercy": 0,
+			"truth": 0,
+			"physm": 10,
+			"conxn": 0,
+			"selfc": 0,
+			"outlk": 0
+		}
+	},
+	{
+		"question": "It’s likely for me to decline a request on the basis of having that time or resource better spent furthering my own goals.",
+		"effect": {
+			"thank": 0,
+			"welcm": 0,
+			"compl": 0,
+			"mercy": 0,
+			"truth": 0,
+			"physm": -10,
+			"conxn": 0,
+			"selfc": 0,
+			"outlk": 0
+		}
+	},
+	{
+		"question": "I’m a nobody compared to everyone else.",
+		"effect": {
+			"thank": 0,
+			"welcm": 0,
+			"compl": 0,
+			"mercy": 0,
+			"truth": 0,
+			"physm": 0,
+			"conxn": 0,
+			"selfc": -10,
+			"outlk": 0
+		}
+	},
+	{
+		"question": "I feel that I am special and my importance as individual should not be disregarded.",
+		"effect": {
+			"thank": 0,
+			"welcm": 0,
+			"compl": 0,
+			"mercy": 0,
+			"truth": 0,
+			"physm": 0,
+			"conxn": 0,
+			"selfc": 10,
+			"outlk": 0
+		}
+	},
+	{
+		"question": "I am unlikely to speak my mind and prefer to let others sort things out.",
+		"effect": {
+			"thank": 0,
+			"welcm": 0,
+			"compl": 0,
+			"mercy": 0,
+			"truth": 0,
+			"physm": 0,
+			"conxn": 0,
+			"selfc": -10,
+			"outlk": 0
+		}
+	},
+	{
+		"question": "Even if it’s likely that others will disagree, I will take action in accordance with my values.",
+		"effect": {
+			"thank": 0,
+			"welcm": 0,
+			"compl": 0,
+			"mercy": 0,
+			"truth": 0,
+			"physm": 0,
+			"conxn": 0,
+			"selfc": 10,
+			"outlk": 0
+		}
+	},
+	{
+		"question": "I’m easily affected by the feelings or attitudes of others.",
+		"effect": {
+			"thank": 0,
+			"welcm": 0,
+			"compl": 0,
+			"mercy": 0,
+			"truth": 0,
+			"physm": 0,
+			"conxn": 0,
+			"selfc": -10,
+			"outlk": 0
+		}
+	},
+	{
+		"question": "I don’t allow myself to be pushed around by others.",
+		"effect": {
+			"thank": 0,
+			"welcm": 0,
+			"compl": 0,
+			"mercy": 0,
+			"truth": 0,
+			"physm": 0,
+			"conxn": 0,
+			"selfc": 10,
+			"outlk": 0
+		}
+	},
+	{
+		"question": "I can advocate for myself and don’t want to rely on others’ representation.",
+		"effect": {
+			"thank": 0,
+			"welcm": 0,
+			"compl": 0,
+			"mercy": 0,
+			"truth": 0,
+			"physm": 0,
+			"conxn": 0,
+			"selfc": 10,
+			"outlk": 0
+		}
+	},
+	{
+		"question": "It’s hard for me to be proud of who I am.",
+		"effect": {
+			"thank": 0,
+			"welcm": 0,
+			"compl": 0,
+			"mercy": 0,
+			"truth": 0,
+			"physm": 0,
+			"conxn": 0,
+			"selfc": -10,
+			"outlk": 0
+		}
+	},
+	{
+		"question": "I am just comparatively worse than other people.",
+		"effect": {
+			"thank": 0,
+			"welcm": 0,
+			"compl": 0,
+			"mercy": 0,
+			"truth": 0,
+			"physm": 0,
+			"conxn": 0,
+			"selfc": -10,
+			"outlk": 0
+		}
+	},
+	{
+		"question": "I tend to brush off my weaknesses to focus on my strengths.",
+		"effect": {
+			"thank": 0,
+			"welcm": 0,
+			"compl": 0,
+			"mercy": 0,
+			"truth": 0,
+			"physm": 0,
+			"conxn": 0,
+			"selfc": 10,
+			"outlk": 0
+		}
+	},
+	{
+		"question": "It’s an amazing thing to have a sincere conversation with a friend where you really feel the connection.",
+		"effect": {
+			"thank": 0,
+			"welcm": 0,
+			"compl": 0,
+			"mercy": 0,
+			"truth": 0,
+			"physm": 0,
+			"conxn": 10,
+			"selfc": 0,
+			"outlk": 0
+		}
+	},
+	{
+		"question": "I tend to push others away by holding off on real interaction for as long as possible.",
+		"effect": {
+			"thank": 0,
+			"welcm": 0,
+			"compl": 0,
+			"mercy": 0,
+			"truth": 0,
+			"physm": 0,
+			"conxn": -10,
+			"selfc": 0,
+			"outlk": 0
+		}
+	},
+	{
+		"question": "I actively try to get together with friends to help them be happy or have fun.",
+		"effect": {
+			"thank": 0,
+			"welcm": 0,
+			"compl": 0,
+			"mercy": 0,
+			"truth": 0,
+			"physm": 0,
+			"conxn": 10,
+			"selfc": 0,
+			"outlk": 0
+		}
+	},
+	{
+		"question": "People come to me for advice or emotional support/help.",
+		"effect": {
+			"thank": 0,
+			"welcm": 0,
+			"compl": 0,
+			"mercy": 0,
+			"truth": 0,
+			"physm": 0,
+			"conxn": 10,
+			"selfc": 0,
+			"outlk": 0
+		}
+	},
+	{
+		"question": "I don’t feel a need to have very close relationships.",
+		"effect": {
+			"thank": 0,
+			"welcm": 0,
+			"compl": 0,
+			"mercy": 0,
+			"truth": 0,
+			"physm": 0,
+			"conxn": -10,
+			"selfc": 0,
+			"outlk": 0
+		}
+	},
+	{
+		"question": "I don’t have many/any friends that I cherish very much.",
+		"effect": {
+			"thank": 0,
+			"welcm": 0,
+			"compl": 0,
+			"mercy": 0,
+			"truth": 0,
+			"physm": 0,
+			"conxn": -10,
+			"selfc": 0,
+			"outlk": 0
+		}
+	},
+	{
+		"question": "I value the truth, even if it may be advantageous to lie.",
+		"effect": {
+			"thank": 0,
+			"welcm": 0,
+			"compl": 0,
+			"mercy": 0,
+			"truth": 10,
+			"physm": 0,
+			"conxn": 0,
+			"selfc": 0,
+			"outlk": 0
+		}
+	},
+	{
+		"question": "I am open to trick others with plots and schemes to achieve goals.",
+		"effect": {
+			"thank": 0,
+			"welcm": 0,
+			"compl": 0,
+			"mercy": 0,
+			"truth": -10,
+			"physm": 0,
+			"conxn": 0,
+			"selfc": 0,
+			"outlk": 0
+		}
+	},
+	{
+		"question": "I sincerely plead with others to ask them of something, acknowledging it is their decision.",
+		"effect": {
+			"thank": 0,
+			"welcm": 0,
+			"compl": 10,
+			"mercy": 0,
+			"truth": 0,
+			"physm": 0,
+			"conxn": 0,
+			"selfc": 0,
+			"outlk": 0 
+		}
+	},
+	{
+		"question": "When I need something, it doesn’t matter if it is called rude when I’m compeling or urging someone to get my way.",
+		"effect": {
+			"thank": 0,
+			"welcm": 0,
+			"compl": -10,
+			"mercy": 0,
+			"truth": 0,
+			"physm": 0,
+			"conxn": 0,
+			"selfc": 0,
+			"outlk": 0 
+		}
+	},
+	{
+		"question": "It is important that I use my manners, I don’t like to beg as it may be annoying.",
+		"effect": {
+			"thank": 0,
+			"welcm": 0,
+			"compl": 10,
+			"mercy": 0,
+			"truth": 0,
+			"physm": 0,
+			"conxn": 0,
+			"selfc": 0,
+			"outlk": 0 
+		}
+	},
+	{
+		"question": "I find it important to let others know that they can work at their own pace and that they do not have to do something for me.",
+		"effect": {
+			"thank": 0,
+			"welcm": 0,
+			"compl": 10,
+			"mercy": 0,
+			"truth": 0,
+			"physm": 0,
+			"conxn": 0,
+			"selfc": 0,
+			"outlk": 0 
+		}
+	},
+	{
+		"question": "I prefer to decide for others, there are times when I know what has to be done.",
+		"effect": {
+			"thank": 0,
+			"welcm": 0,
+			"compl": -10,
+			"mercy": 0,
+			"truth": 0,
+			"physm": 0,
+			"conxn": 0,
+			"selfc": 0,
+			"outlk": 0 
+		}
+	},
+	{
+		"question": "I would much rather tell someone to do something than ask them.",
+		"effect": {
+			"thank": 0,
+			"welcm": 0,
+			"compl": -10,
+			"mercy": 0,
+			"truth": 0,
+			"physm": 0,
+			"conxn": 0,
+			"selfc": 0,
+			"outlk": 0 
+		}
+	},
+	{
+		"question": "Lying is not necessarily evil.",
+		"effect": {
+			"thank": 0,
+			"welcm": 0,
+			"compl": 0,
+			"mercy": 0,
+			"truth": -10,
+			"physm": 0,
+			"conxn": 0,
+			"selfc": 0,
+			"outlk": 0
+		}
+	},
+	{
+		"question": "Breaking the rules is not inherently bad to me, there are many things I would do if I wouldn’t get caught.",
+		"effect": {
+			"thank": 0,
+			"welcm": 0,
+			"compl": 0,
+			"mercy": 0,
+			"truth": -10,
+			"physm": 0,
+			"conxn": 0,
+			"selfc": 0,
+			"outlk": 0
+		}
+	},
+	{
+		"question": "I want to be honest even if no one would know of my lies.",
+		"effect": {
+			"thank": 0,
+			"welcm": 0,
+			"compl": 0,
+			"mercy": 0,
+			"truth": 10,
+			"physm": 0,
+			"conxn": 0,
+			"selfc": 0,
+			"outlk": 0
+		}
+	},
+	{
+		"question": "I believe it will swiftly catch up to you if you do the wrong things and try to hide it, so I try to steer clear of that danger.",
+		"effect": {
+			"thank": 0,
+			"welcm": 0,
+			"compl": 0,
+			"mercy": 0,
+			"truth": 10,
+			"physm": 0,
+			"conxn": 0,
+			"selfc": 0,
+			"outlk": 0
+		}
+	},
+	{
+		"question": "I believe some things happen to us in life because they serve as lessons that we need to learn.",
+		"effect": {
+			"thank": 10,
+			"welcm": 0,
+			"compl": 0,
+			"mercy": 0,
+			"truth": 0,
+			"physm": 0,
+			"conxn": 0,
+			"selfc": 0,
+			"outlk": 0
+		}
+	},
+	{
+		"question": "I tend to think I deserve better than what I have been given",
+		"effect": {
+			"thank": -10,
+			"welcm": 0,
+			"compl": 0,
+			"mercy": 0,
+			"truth": 0,
+			"physm": 0,
+			"conxn": 0,
+			"selfc": 0,
+			"outlk": 0
+		}
+	},
+	{
+		"question": "I forget to say \"thank you\" or don’t even bother with it.",
+		"effect": {
+			"thank": -10,
+			"welcm": 0,
+			"compl": 0,
+			"mercy": 0,
+			"truth": 0,
+			"physm": 0,
+			"conxn": 0,
+			"selfc": 0,
+			"outlk": 0
+		}
+	},
+	{
+		"question": "I find it folly to appreciate what I have, I have many complaints about my current conditions.",
+		"effect": {
+			"thank": -10,
+			"welcm": 0,
+			"compl": 0,
+			"mercy": 0,
+			"truth": 0,
+			"physm": 0,
+			"conxn": 0,
+			"selfc": 0,
+			"outlk": 0
+		}
+	},
+	{
+		"question": "I get what I get and I don’t get upset.",
+		"effect": {
+			"thank": 10,
+			"welcm": 0,
+			"compl": 0,
+			"mercy": 0,
+			"truth": 0,
+			"physm": 0,
+			"conxn": 0,
+			"selfc": 0,
+			"outlk": 0
+		}
+	},
+	{
+		"question": "It’s a blessing for me to have what I have when others have so much less.",
+		"effect": {
+			"thank": 10,
+			"welcm": 0,
+			"compl": 0,
+			"mercy": 0,
+			"truth": 0,
+			"physm": 0,
+			"conxn": 0,
+			"selfc": 0,
+			"outlk": 0
+		}
+	},
+	{
+		"question": "It’s imporant to me that I never forget to thank a person who has done something for me.",
+		"effect": {
+			"thank": 10,
+			"welcm": 0,
+			"compl": 0,
+			"mercy": 0,
+			"truth": 0,
+			"physm": 0,
+			"conxn": 0,
+			"selfc": 0,
+			"outlk": 0
+		}
+	},
+	{
+		"question": "Even if I decline an offer, or if it ends up not benefiting me, I still greatly appreciate others’ will to help.",
+		"effect": {
+			"thank": 10,
+			"welcm": 0,
+			"compl": 0,
+			"mercy": 0,
+			"truth": 0,
+			"physm": 0,
+			"conxn": 0,
+			"selfc": 0,
+			"outlk": 0
+		}
+	},
+	{
+		"question": "I don’t need help from others.",
+		"effect": {
+			"thank": -10,
+			"welcm": 0,
+			"compl": 0,
+			"mercy": 0,
+			"truth": 0,
+			"physm": 0,
+			"conxn": 0,
+			"selfc": 0,
+			"outlk": 0
+		}
+	},
+	{
+		"question": "I remind myself of how fortunate I am to have the privileges and opportunities society has given me.",
+		"effect": {
+			"thank": 10,
+			"welcm": 0,
+			"compl": 0,
+			"mercy": 0,
+			"truth": 0,
+			"physm": 0,
+			"conxn": 0,
+			"selfc": 0,
+			"outlk": 0
+		}
+	},
+	{
+		"question": "I don’t see a need to derive meaning from my life’s occurrences and see it more as something to get through rather than cherish.",
+		"effect": {
+			"thank": -10,
+			"welcm": 0,
+			"compl": 0,
+			"mercy": 0,
+			"truth": 0,
+			"physm": 0,
+			"conxn": 0,
+			"selfc": 0,
+			"outlk": 0
+		}
+	},
+	{
+		"question": "I generally have hope and try to be happy, regardless of setbacks.",
+		"effect": {
+			"thank": 0,
+			"welcm": 0,
+			"compl": 0,
+			"mercy": 0,
+			"truth": 0,
+			"physm": 0,
+			"conxn": 0,
+			"selfc": 0,
+			"outlk": 10
+		}
+	},
+	{
+		"question": "I find comfort in believing that there is a good force out there with a plan for me.",
+		"effect": {
+			"thank": 0,
+			"welcm": 0,
+			"compl": 0,
+			"mercy": 0,
+			"truth": 0,
+			"physm": 0,
+			"conxn": 0,
+			"selfc": 0,
+			"outlk": 10
+		}
+	},
+	{
+		"question": "I believe there isn’t much hope for humanity.",
+		"effect": {
+			"thank": 0,
+			"welcm": 0,
+			"compl": 0,
+			"mercy": 0,
+			"truth": 0,
+			"physm": 0,
+			"conxn": 0,
+			"selfc": 0,
+			"outlk": 10
+		}
+	},
+	{
+		"question": "I feel like the cards of life are stacked against me.",
+		"effect": {
+			"thank": 0,
+			"welcm": 0,
+			"compl": 0,
+			"mercy": 0,
+			"truth": 0,
+			"physm": 0,
+			"conxn": 0,
+			"selfc": 0,
+			"outlk": 10
+		}
+	}
+]
