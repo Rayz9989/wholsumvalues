@@ -56,7 +56,7 @@
 		}
 	},
 	{
-		"question": "I am pleased when newcomers attempt to join or be apart of my own spaces or communities.",
+		"question": "I am pleased when newcomers attempt to join or be a part of my own spaces or communities.",
 		"effect": {
 			"thank": 0,
 			"welcm": 10,
