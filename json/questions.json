@@ -826,7 +826,7 @@
 		}
 	},
 	{
-		"question": "It’s imporant to me that I never forget to thank a person who has done something for me.",
+		"question": "It’s important to me that I never forget to thank a person who has done something for me.",
 		"effect": {
 			"thank": 10,
 			"welcm": 0,
